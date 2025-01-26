@@ -17,10 +17,7 @@ This is a MySQL-based database project that simulates a **Zomato-like** restaura
 ## Setup Instructions
 
 1. **Create the Database**:
-    ```sql
-    CREATE DATABASE zomato;
-    USE zomato;
-    ```
+    CREATE DATABASE zomato
 
 2. **Create Tables**:
     Execute the SQL statements provided to create the **Users**, **Restaurants**, **Menu Items**, **Orders**, **Order Items**, and **Reviews** tables.
